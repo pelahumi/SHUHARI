@@ -5,7 +5,7 @@ Al verlo entregado nos hemos dado cuenta de que el grupo con el que colaboramos 
 El grupo implementó a la perfección el método de trabajo, ciñéndose primero a los conocimientos del profesor y progresivamente fueron mejorando el código hasta el punto de que nuestro grupo no tiene nada que aportar ni hemos podido detectar ningún error. Además hace uso de estructuras vistas en clase y otras más complejas.
 
 El diagrama de flujo que corresponde a su código es el siguiente:
-https://github.com/pelahumi/SHUHARI/blob/main/Captura%20de%20pantalla%202021-11-23%20a%20las%2012.10.27.jpg
+(https://github.com/pelahumi/SHUHARI/blob/main/Captura%20de%20pantalla%202021-11-23%20a%20las%2012.10.27.jpg)
 
 
 Y su correspondiente código es:
